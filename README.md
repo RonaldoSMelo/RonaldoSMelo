@@ -1,5 +1,5 @@
 ## Ronaldo da Silva Melo
-**Analista de Desenvolvimento Sênior | Especialista em Flutter, IA & Power BI**
+**Analista de Desenvolvimento Sênior | Especialista em Flutter,Python, Apex Oracle, IA & Power BI**
 
 ### 🚀 Sobre Mim
 Desenvolvedor sênior com **13+ anos de experiência** em desenvolvimento de software, especializado em tecnologias modernas como Flutter, Inteligência Artificial, Machine Learning e Business Intelligence com Power BI.
