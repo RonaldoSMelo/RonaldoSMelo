@@ -2,7 +2,7 @@
 ### **Tech Lead | Multi-Agent Systems Specialist | Full-Stack & Web3 Architecture**
 
 <p align="left">
-  <a href="https://linkedin.com/in/ronaldo-s-melo" target="_blank">
+  <a href="https://www.linkedin.com/in/ronaldo-s-melo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/RonaldoSMelo" target="_blank">
@@ -14,56 +14,56 @@
 
 ### 🚀 Sobre Mim
 
-Desenvolvedor Sênior e Tech Lead com **mais de 14 anos de experiência** no desenho e implementação de arquiteturas de software complexas. Meu foco atual está na fronteira da tecnologia: **Engenharia de Contexto**, orquestração de **Sistemas Multi-Agentes de IA**, automação inteligente de ecossistemas corporativos e infraestrutura **Web3/Blockchain**.
+Engenheiro de Software Sênior e Tech Lead com **mais de 14 anos de experiência** liderando o desenvolvimento de soluções corporativas robustas e escaláveis. Minha expertise combina sistemas tradicionais de alta criticidade com a vanguarda tecnológica: **Sistemas Multi-Agentes de IA**, **Engenharia de Contexto**, hiper-automação de processos e arquiteturas descentralizadas (**Web3/Blockchain**).
 
-Combinando uma sólida bagagem analítica (vinda de 4 graduações complementares) com visão de negócios, atuo desde a modelagem de dados estratégicos até a entrega de soluções ponta a ponta que transformam processos analógicos em operações inteligentes de alto desempenho.
+Orientado a resultados e decisões baseadas em dados, utilizo minha sólida formação multidisciplinar (4 graduações acadêmicas) para traduzir desafios complexos de negócios em arquiteturas de software elegantes, eficientes e de alto desempenho.
 
 ---
 
 ### 💼 Experiência Atual
 
 *   **Analista de Desenvolvimento Sênior / Tech Lead** @ *Compusoftware (CS Soluções em Software de Gestão Empresarial LTDA)*
-    *   Arquitetura e desenvolvimento de aplicações mobile corporativas de alta performance utilizando **Flutter** e **Dart**.
-    *   Design de pipelines de dados, modelagem de KPIs estratégicos e criação de ecossistemas de **Business Intelligence (Power BI)** para suporte à tomada de decisão executiva.
-    *   Desenvolvimento de soluções integradas (como o *CS Reports*) utilizando automação avançada com **n8n**, **Oracle ORDS** e APIs de mensageria para entrega inteligente de relatórios.
+    *   Desenho e evolução de sistemas de missão crítica integrando backends robustos a aplicações móveis de alta performance com **Flutter** e **Dart**.
+    *   Concepção de ecossistemas avançados de **Business Intelligence (Power BI)**, modelagem de dados estratégicos e construção de dashboards executivos para suporte à tomada de decisão.
+    *   Arquitetura de soluções modernas de integração e comunicação automatizada através de pipelines inteligentes utilizando **n8n**, **Oracle ORDS** e consumo de APIs rest.
 
 ---
 
-### 🛠️ Stack Tecnológica & Ecossistemas
+### 🛠️ Core Stack & Ecossistemas
 
-| Categoria | Tecnologias |
+| Categoria | Tecnologias e Ferramentas |
 | :--- | :--- |
-| **Inteligência Artificial** | Agentes Autônomos (LangChain), RAG (Retrieval-Augmented Generation), OpenAI API, DeepSeek, Hugging Face, Visão Computacional (YOLO, Transfer Learning), TensorFlow, PyTorch |
-| **Web3 & Blockchain** | Solana Network, Rust, Anchor Framework, Tokenomics & DAOs, Padrões Híbridos (X402) |
-| **Desenvolvimento Mobile** | Flutter, Dart, React Native |
-| **Front-End & Back-End** | Node.js, Next.js, React, TypeScript, Python, R, Delphi |
-| **Dados & Infraestrutura** | Oracle (APEX, PL/SQL, ORDS), PostgreSQL, Supabase, Firebase, Neo4j, MongoDB, SQLite |
-| **Automação & BI** | n8n, Kestra, Power BI Avançado, Ferramentas de CI/CD |
+| **Inteligência Artificial** | Sistemas Multi-Agentes (LangChain), Arquiteturas RAG, Modelos LLM (OpenAI, DeepSeek), Hugging Face, Visão Computacional (YOLO, Transfer Learning, Detecção Facial), TensorFlow, PyTorch |
+| **Web3 & Blockchain** | Solana Network, Rust, Anchor Framework, Tokenomics, Gestão de DAOs, Padrão Híbrido X402 |
+| **Mobile Development** | Flutter, Dart, React Native |
+| **Back-End & Full-Stack** | Node.js, Next.js, React, TypeScript, Python, R, Delphi, C#, Java |
+| **Bancos de Dados & Infra** | Oracle (APEX, PL/SQL, ORDS), PostgreSQL, Supabase, Firebase, Neo4j, MongoDB, SQLite |
+| **Automação & Orquestração** | n8n, Kestra, Dashboards em Power BI Avançado, Fluxos CI/CD |
 
 ---
 
-### 🎯 Projetos em Destaque
+### 🎯 Projetos de Destaque
 
 #### 🤖 Inteligência Artificial & Automação Inteligente
-*   **Agentes de IA com RAG Avançado:** Sistemas corporativos de perguntas e respostas contextualizadas utilizando bases de conhecimento dinâmicas e arquitetura LangChain.
-*   **AgroSales Vision AI:** Solução de inteligência artificial aplicada ao monitoramento e análise preditiva de demandas de mercado para o setor de Agrotech.
-*   **Auditoria Automatizada de Código:** Agente especializado na varredura de arquiteturas de software e detecção precoce de vulnerabilidades.
-*   **Engine de Visão Computacional:** Sistemas ponta a ponta envolvendo reconhecimento facial biométrico, recomendação por similaridade de imagens e treinamento personalizado do modelo YOLO.
+*   **CS Reports:** Bot inteligente de relatórios corporativos integrando **Oracle ORDS**, orquestração de workflows com **n8n** e **Z-API** para renderização e envio automatizado de dashboards via WhatsApp.
+*   **Sistemas Multi-Agentes & RAG:** Plataformas de processamento de linguagem natural corporativas baseadas em arquitetura RAG (LangChain) para auditoria automatizada de arquiteturas e detecção de vulnerabilidades.
+*   **AgroSales Vision AI:** Plataforma voltada para o setor de Agrotech, utilizando inteligência analítica baseada em dados e hospedada em **Supabase**.
+*   **Biometria & Visão Computacional:** Engines completas de reconhecimento facial, sistemas de recomendação baseados em similaridade de imagens e treinamento customizado de redes neurais YOLO.
 
-#### 🌐 Web3 & Projetos de Ecossistema (SaaS / Protocolos)
-*   **Vértice Agro Protocol:** Desenho arquitetural de uma plataforma SaaS para auditoria e sincronização descentralizada de dados logísticos agroindustriais (Oracle) para a blockchain Solana.
-*   **CryptoSync:** Plataforma SaaS voltada para a reconciliação fiscal automatizada de transações cripto e emissão de Notas Fiscais para pagamentos liquidados em stablecoins (USDT).
-*   **LivooShop & LivooDAO:** Modelagem de negócios de *live commerce* integrada a um manifesto Web3 estruturado com governança descentralizada e tokenomics própria (LIVT).
+#### 🌐 Web3, SaaS & Protocolos Descentralizados
+*   **Vértice Agro Protocol:** Arquitetura de plataforma SaaS desenhada para realizar auditoria, integridade e sincronização descentralizada de dados logísticos industriais a partir de bancos **Oracle** diretamente para a blockchain **Solana** utilizando **Rust** e **Anchor**.
+*   **CryptoSync:** Solução SaaS para conciliação fiscal automatizada de transações de criptoativos e emissão automatizada de notas fiscais (NFe) para pagamentos efetuados em stablecoins (USDT).
+*   **LivooShop & LivooDAO:** Arquitetura e modelagem de ecossistema de *live commerce* estruturado sob governança descentralizada baseada em Tokenomics própria (LIVT).
 
-#### 📱 Engenharia Mobile & Soluções Corporativas
-*   **GymHero:** Aplicativo mobile gamificado focado no rastreamento de performance física e evolução de XP, construído com Flutter e persistência escalável no Supabase.
-*   **Flutter Core Library:** Desenvolvimento de uma biblioteca proprietária de componentes altamente reutilizáveis e padrões de estado para acelerar o delivery de aplicativos corporativos.
+#### 📱 Engenharia Mobile & Aplicações
+*   **GymHero:** Aplicativo móvel gamificado focado no acompanhamento de progresso e ganho de experiência (XP), desenvolvido com **Flutter** e ecossistema serverless **Supabase**.
+*   **Flutter Core & Enterprise Apps:** Criação e manutenção de bibliotecas de componentes e micro-arquiteturas reutilizáveis para acelerar o delivery de apps corporativos seguros.
 
 ---
 
 ### 📚 Formação Acadêmica
 
-Minha abordagem técnica é fundamentada por uma formação multidisciplinar que une computação, análise científica, engenharia e processos industriais:
+Minha atuação técnica é potencializada por uma bagagem multidisciplinar estratégica que conecta engenharia de processos, exatas e comportamento analítico:
 
 *   **Bacharelado em Sistemas de Informação**
 *   **Ciência de Dados e Análise de Comportamento**
@@ -86,4 +86,4 @@ Minha abordagem técnica é fundamentada por uma formação multidisciplinar que
 ---
 
 ### ⚡ Fun Fact
-> "Com 4 graduações na bagagem e mais de uma década de linhas de código escritas, descobri que meu superpoder não é apenas transformar café em software, mas sim traduzir o caos de dados brutos e arquiteturas analógicas em insights claros, inteligência artificial aplicada e código limpo." 🚀
+> "Com 4 graduações no currículo e mais de uma década projetando software, entendi que engenharia vai muito além do código: meu foco é traduzir o caos de dados e processos analógicos em arquiteturas limpas, inteligentes e preparadas para o futuro da IA e da descentralização." 🚀
