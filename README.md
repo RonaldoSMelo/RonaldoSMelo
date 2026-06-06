@@ -75,11 +75,11 @@ Minha atuação técnica é potencializada por uma bagagem multidisciplinar estr
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonaldoSMelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RonaldoSMelo&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoSMelo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens Mais Utilizadas" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RonaldoSMelo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="180" />
 </p>
 
 <p align="center">
