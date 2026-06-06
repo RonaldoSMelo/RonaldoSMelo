@@ -2,8 +2,12 @@
 ### **Tech Lead | Multi-Agent Systems Specialist | Full-Stack & Web3 Architecture**
 
 <p align="left">
-  <a href="https://linkedin.com/in/ronaldo-s-melo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/RonaldoSMelo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/ronaldo-s-melo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/RonaldoSMelo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -25,7 +29,7 @@ Combinando uma sólida bagagem analítica (vinda de 4 graduações complementare
 
 ---
 
-### 🛠️ stack Tecnológica & Ecossistemas
+### 🛠️ Stack Tecnológica & Ecossistemas
 
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -71,12 +75,12 @@ Minha abordagem técnica é fundamentada por uma formação multidisciplinar que
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonaldoSMelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoSMelo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonaldoSMelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoSMelo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="180" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonaldoSMelo&theme=tokyonight&hide_border=true" alt="Streak do GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonaldoSMelo&theme=tokyonight&hide_border=true" alt="Streak do GitHub" />
 </p>
 
 ---
