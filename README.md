@@ -1,101 +1,85 @@
-## Ronaldo da Silva Melo
-**Tech Lead | Multi-Agent Systems Specialist | Full-Stack Architecture | Data Analytics |
-Node.js • Next.js • React • React Native • Flutter • Rust • Python • R • Neo4j • Oracle APEX • PL/SQL • Delphi**
+# Ronaldo da Silva Melo
+### **Tech Lead | Multi-Agent Systems Specialist | Full-Stack & Web3 Architecture**
 
-### 🚀 Sobre Mim
-Desenvolvedor sênior com **14+ anos de experiência** em desenvolvimento de software, especializado em tecnologias modernas como Flutter, Inteligência Artificial, Machine Learning e Business Intelligence com Power BI.
-
-### 💼 Experiência Atual
-- **Analista de Desenvolvimento Sênior** na CS Soluções em Software de Gestão Empresarial LTDA - Compusoftware
-- Desenvolvimento de aplicações mobile com **Flutter** para soluções corporativas
-- Especialização em **Business Intelligence** com Power BI e dashboards executivos
-- Análise de dados para tomada de decisão estratégica
-
-### 🛠️ Tecnologias & Habilidades
-
-#### **Linguagens de Programação**
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-#### **Mobile & Frameworks**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-#### **IA & Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-#### **Business Intelligence**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-#### **Bancos de Dados**
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🎯 Projetos Destacados
-
-#### 🤖 **Inteligência Artificial & Machine Learning**
-- **Agente de IA Completo com RAG** - Sistema de perguntas e respostas usando LangChain
-- **Detecção de Vulnerabilidades** - Agente para análise de arquiteturas de software
-- **Reconhecimento Facial** - Sistema completo de biometria facial
-- **Recomendação por Imagens** - Sistema baseado em visão computacional
-- **Treinamento YOLO** - Criação de base de dados e treinamento de rede neural
-- **Transfer Learning** - Otimização de redes neurais para classificação
-
-#### 📱 **Desenvolvimento Mobile & Flutter**
-- **Flutter Base** - Biblioteca de componentes e widgets reutilizáveis
-- **Apps Corporativos** - Soluções mobile para gestão empresarial
-- **Calculadora IMC** - App com persistência de dados SQLite
-- **Lista de Contatos** - App com busca e integração Back4App
-- **Gerenciador de Tarefas** - Sistema completo de organização pessoal
-
-#### 📊 **Business Intelligence & Automação**
-- **Power BI Avançado** - Dashboards executivos e relatórios interativos
-- **Análise de Dados Financeiros** - Modelagem de dados e KPIs
-- **Templates N8N** - Automação de workflows e integrações
-- **Testes Unitários** - Geração automática com LangChain e Azure ChatGPT
-
-### 📚 Formação Acadêmica
-- **Bacharel em Sistema de Informação**
-- **Tecnologia em Biocombustíveis**
-- **Ciências de Dados e Análise de Comportamento**
-- **Engenharia de Produção**
-
-### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonaldoSMelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoSMelo&layout=compact&theme=tokyonight&hide_border=true)
-
-### 🔥 Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RonaldoSMelo&theme=tokyonight&hide_border=true)
-
-### 🤝 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldo-silva-melo)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RonaldoSMelo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldo@example.com)
-
-### 💡 Interesses
-- 🤖 **Inteligência Artificial** e Machine Learning
-- 📱 **Desenvolvimento Mobile** com Flutter
-- 📊 **Business Intelligence** e Análise de Dados
-- 🔧 **Automação** de processos
-- 🚀 **Tecnologias Emergentes**
-
-### 🎯 Objetivos 2025
-- 🌱 Expandir conhecimentos em **Deep Learning** e **Computer Vision**
-- 👯 Colaborar em projetos **open source** de IA
-- 🤔 Desenvolver soluções de **IA Generativa** para empresas
-- 💬 Compartilhar conhecimento através de **artigos técnicos**
-
-### ⚡ Fun Fact
-"Transformo café ☕ em código 💻 e dados 📊 em insights valiosos! Com 4 graduações e 13+ anos de experiência, sempre em busca de inovação e soluções tecnológicas que fazem a diferença."
+<p align="left">
+  <a href="https://linkedin.com/in/ronaldo-s-melo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/RonaldoSMelo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
-*"A tecnologia é apenas uma ferramenta. O importante é como você a usa para resolver problemas reais."* 🚀
+
+### 🚀 Sobre Mim
+
+Desenvolvedor Sênior e Tech Lead com **mais de 14 anos de experiência** no desenho e implementação de arquiteturas de software complexas. Meu foco atual está na fronteira da tecnologia: **Engenharia de Contexto**, orquestração de **Sistemas Multi-Agentes de IA**, automação inteligente de ecossistemas corporativos e infraestrutura **Web3/Blockchain**.
+
+Combinando uma sólida bagagem analítica (vinda de 4 graduações complementares) com visão de negócios, atuo desde a modelagem de dados estratégicos até a entrega de soluções ponta a ponta que transformam processos analógicos em operações inteligentes de alto desempenho.
+
+---
+
+### 💼 Experiência Atual
+
+*   **Analista de Desenvolvimento Sênior / Tech Lead** @ *Compusoftware (CS Soluções em Software de Gestão Empresarial LTDA)*
+    *   Arquitetura e desenvolvimento de aplicações mobile corporativas de alta performance utilizando **Flutter** e **Dart**.
+    *   Design de pipelines de dados, modelagem de KPIs estratégicos e criação de ecossistemas de **Business Intelligence (Power BI)** para suporte à tomada de decisão executiva.
+    *   Desenvolvimento de soluções integradas (como o *CS Reports*) utilizando automação avançada com **n8n**, **Oracle ORDS** e APIs de mensageria para entrega inteligente de relatórios.
+
+---
+
+### 🛠️ stack Tecnológica & Ecossistemas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Inteligência Artificial** | Agentes Autônomos (LangChain), RAG (Retrieval-Augmented Generation), OpenAI API, DeepSeek, Hugging Face, Visão Computacional (YOLO, Transfer Learning), TensorFlow, PyTorch |
+| **Web3 & Blockchain** | Solana Network, Rust, Anchor Framework, Tokenomics & DAOs, Padrões Híbridos (X402) |
+| **Desenvolvimento Mobile** | Flutter, Dart, React Native |
+| **Front-End & Back-End** | Node.js, Next.js, React, TypeScript, Python, R, Delphi |
+| **Dados & Infraestrutura** | Oracle (APEX, PL/SQL, ORDS), PostgreSQL, Supabase, Firebase, Neo4j, MongoDB, SQLite |
+| **Automação & BI** | n8n, Kestra, Power BI Avançado, Ferramentas de CI/CD |
+
+---
+
+### 🎯 Projetos em Destaque
+
+#### 🤖 Inteligência Artificial & Automação Inteligente
+*   **Agentes de IA com RAG Avançado:** Sistemas corporativos de perguntas e respostas contextualizadas utilizando bases de conhecimento dinâmicas e arquitetura LangChain.
+*   **AgroSales Vision AI:** Solução de inteligência artificial aplicada ao monitoramento e análise preditiva de demandas de mercado para o setor de Agrotech.
+*   **Auditoria Automatizada de Código:** Agente especializado na varredura de arquiteturas de software e detecção precoce de vulnerabilidades.
+*   **Engine de Visão Computacional:** Sistemas ponta a ponta envolvendo reconhecimento facial biométrico, recomendação por similaridade de imagens e treinamento personalizado do modelo YOLO.
+
+#### 🌐 Web3 & Projetos de Ecossistema (SaaS / Protocolos)
+*   **Vértice Agro Protocol:** Desenho arquitetural de uma plataforma SaaS para auditoria e sincronização descentralizada de dados logísticos agroindustriais (Oracle) para a blockchain Solana.
+*   **CryptoSync:** Plataforma SaaS voltada para a reconciliação fiscal automatizada de transações cripto e emissão de Notas Fiscais para pagamentos liquidados em stablecoins (USDT).
+*   **LivooShop & LivooDAO:** Modelagem de negócios de *live commerce* integrada a um manifesto Web3 estruturado com governança descentralizada e tokenomics própria (LIVT).
+
+#### 📱 Engenharia Mobile & Soluções Corporativas
+*   **GymHero:** Aplicativo mobile gamificado focado no rastreamento de performance física e evolução de XP, construído com Flutter e persistência escalável no Supabase.
+*   **Flutter Core Library:** Desenvolvimento de uma biblioteca proprietária de componentes altamente reutilizáveis e padrões de estado para acelerar o delivery de aplicativos corporativos.
+
+---
+
+### 📚 Formação Acadêmica
+
+Minha abordagem técnica é fundamentada por uma formação multidisciplinar que une computação, análise científica, engenharia e processos industriais:
+
+*   **Bacharelado em Sistemas de Informação**
+*   **Ciência de Dados e Análise de Comportamento**
+*   **Engenharia de Produção**
+*   **Tecnologia em Biocombustíveis**
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonaldoSMelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoSMelo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="180">
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonaldoSMelo&theme=tokyonight&hide_border=true" alt="Streak do GitHub">
+</p>
+
+---
+
+### ⚡ Fun Fact
+> "Com 4 graduações na bagagem e mais de uma década de linhas de código escritas, descobri que meu superpoder não é apenas transformar café em software, mas sim traduzir o caos de dados brutos e arquiteturas analógicas em insights claros, inteligência artificial aplicada e código limpo." 🚀
