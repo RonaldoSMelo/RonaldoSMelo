@@ -47,13 +47,13 @@ Orientado a resultados e decisões baseadas em dados, utilizo minha sólida form
 #### 🤖 Inteligência Artificial & Automação Inteligente
 *   **CS Reports:** Bot inteligente de relatórios corporativos integrando **Oracle ORDS**, orquestração de workflows com **n8n** e **Z-API** para renderização e envio automatizado de dashboards via WhatsApp.
 *   **Sistemas Multi-Agentes & RAG:** Plataformas de processamento de linguagem natural corporativas baseadas em arquitetura RAG (LangChain) para auditoria automatizada de arquiteturas e detecção de vulnerabilidades.
-*   **AgroSales Vision AI:** Plataforma voltada para o setor de Agrotech, utilizando inteligência analítica baseada em dados e hospedada em **Supabase**.
+*   **AgroSales Vision AI:** Plataforma voltada para o setor de Agrotech, utilizando inteligência artificial aplicada ao mercado agroindustrial e hospedada em **Supabase**.
 *   **Biometria & Visão Computacional:** Engines completas de reconhecimento facial, sistemas de recomendação baseados em similaridade de imagens e treinamento customizado de redes neurais YOLO.
 
 #### 🌐 Web3, SaaS & Protocolos Descentralizados
 *   **Vértice Agro Protocol:** Arquitetura de plataforma SaaS desenhada para realizar auditoria, integridade e sincronização descentralizada de dados logísticos industriais a partir de bancos **Oracle** diretamente para a blockchain **Solana** utilizando **Rust** e **Anchor**.
 *   **CryptoSync:** Solução SaaS para conciliação fiscal automatizada de transações de criptoativos e emissão automatizada de notas fiscais (NFe) para pagamentos efetuados em stablecoins (USDT).
-*   **LivooShop & LivooDAO:** Arquitetura e modelagem de ecossistema de *live commerce* estruturado sob governança descentralizada baseada em Tokenomics própria (LIVT).
+*   **LivooShop & LivooDAO:** Arquitetura e modelagem de ecossistema de *live commerce* integrado a um manifesto Web3 estruturado com governança descentralizada e Tokenomics própria (LIVT).
 
 #### 📱 Engenharia Mobile & Aplicações
 *   **GymHero:** Aplicativo móvel gamificado focado no acompanhamento de progresso e ganho de experiência (XP), desenvolvido com **Flutter** e ecossistema serverless **Supabase**.
@@ -74,12 +74,15 @@ Minha atuação técnica é potencializada por uma bagagem multidisciplinar estr
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonaldoSMelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoSMelo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" height="180" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonaldoSMelo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Estatísticas do GitHub" height="180" />
 </p>
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoSMelo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens Mais Utilizadas" height="180" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonaldoSMelo&theme=tokyonight&hide_border=true" alt="Streak do GitHub" />
 </p>
 
